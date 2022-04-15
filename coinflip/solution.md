@@ -1,4 +1,4 @@
-Coinflip
+### Ethernaut coinflip
 
 Take a gander at this contract
 
@@ -90,7 +90,7 @@ contract Attack {
 
 In the function titles predictFuture, we get the value of the coinflip the same way the original contract does it. 
 
-
 Deploy this attack contract, call predictFuture 10x and you'll have solved this level
 
-![[Pasted image 20220415141751.png]]
+%%TODO:  upload the photo to imgur  %%
+![[Pasted image 20220415142517.png]]
